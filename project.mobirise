@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1000day",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 37,
     "versionPublish": "4.1.0",
@@ -652,7 +652,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "الف ليلو وليلة",
+        "title": "الف ليلة  وليلة",
         "order": 1
       },
       "components": [
